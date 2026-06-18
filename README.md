@@ -8,7 +8,7 @@ API REST de um quadro Kanban com colunas, cartões ordenáveis e atribuição de
 
 ```bash
 npm install
-npm start        # inicia em http://localhost:3005
+npm start        # inicia em http://localhost:3000
 ```
 
 O projeto já sobe com uma rota raiz `GET /`. Todo o resto é com o grupo.
